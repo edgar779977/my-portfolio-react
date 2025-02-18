@@ -12,9 +12,9 @@ const skillsData = {
         { skill: "Bootstrap", level: "Advanced" },
         { skill: "React.js", level: "Intermediate" }
     ],
+
     backend: [
         { skill: "Laravel", level: "Advanced" },
-        { skill: "Next.js", level: "Intermediate" },
         { skill: "MySQL", level: "Intermediate" },
         { skill: "PHP", level: "Intermediate" }
     ]
